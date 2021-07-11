@@ -12,3 +12,5 @@ git push -u origin main
 git remote add origin https://github.com/jhppires/e_python.git
 git branch -M main
 git push -u origin main
+
+https://blog.geekhunter.com.br/comandos-git-mais-utilizados/
