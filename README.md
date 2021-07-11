@@ -15,3 +15,6 @@ git push -u origin main
 
 Da um help ate eu decorar:
 https://blog.geekhunter.com.br/comandos-git-mais-utilizados/ 
+
+Tenho que dar add sempre.
+no changes added to commit (use "git add" and/or "git commit -a")
