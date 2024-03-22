@@ -1,20 +1,19 @@
-…or create a new repository on the command line
+# Python Study Repository
 
-echo "# e_python" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/jhppires/e_python.git
-git push -u origin main
+This repository is dedicated to my studies in Python. Here, I will explore various concepts and topics related to Python programming.
 
-…or push an existing repository from the command line
-git remote add origin https://github.com/jhppires/e_python.git
-git branch -M main
-git push -u origin main
+## Concepts Covered
 
-Da um help ate eu decorar:
-https://blog.geekhunter.com.br/comandos-git-mais-utilizados/ 
+- Decorators
+- First Class Functions
+- Object-Oriented Programming (OOP)
 
-Tenho que dar add sempre.
-no changes added to commit (use "git add" and/or "git commit -a")
+## Utility Libraries
+
+- Logging
+- NumPy
+- Pandas
+
+Feel free to explore the code and documentation in this repository. If you have any questions or suggestions, please feel free to reach out.
+
+Lets become PRO.
