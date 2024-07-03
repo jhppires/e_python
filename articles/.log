@@ -1,0 +1,19 @@
+2024-06-03 15:23:58,167 [3762] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2024-06-03 15:24:49,113 [3762] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2024-06-03 15:24:59,944 [12794] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2024-06-03 15:25:13,986 [12794] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2024-06-03 15:26:36,016 [12794] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2024-06-03 15:28:27,182 [12794] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2024-06-03 15:29:16,724 [13459] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2024-06-03 15:29:45,876 [13644] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2024-06-03 15:30:38,652 [13644] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2024-06-03 15:30:52,240 [13920] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2024-06-03 15:32:25,179 [13920] WARNING  py.warnings:109: [JupyterRequire] /usr/lib/python3.10/inspect.py:469: FutureWarning: pandas.Float64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  value = getattr(object, key)
+
+2024-06-03 15:32:25,182 [13920] WARNING  py.warnings:109: [JupyterRequire] /usr/lib/python3.10/inspect.py:469: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  value = getattr(object, key)
+
+2024-06-03 15:32:25,183 [13920] WARNING  py.warnings:109: [JupyterRequire] /usr/lib/python3.10/inspect.py:469: FutureWarning: pandas.UInt64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  value = getattr(object, key)
+
